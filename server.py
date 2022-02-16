@@ -1,6 +1,5 @@
 from flask import Flask, url_for, request
 
-i = 0
 app = Flask(__name__)
 
 
